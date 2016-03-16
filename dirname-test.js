@@ -1,1 +1,3 @@
-import 'dirname-test';
+export dirnameTest = () => {
+  require('dirname-test');
+}

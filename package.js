@@ -1,6 +1,6 @@
 Package.describe({
   name: 'tmeasday:dirname-test',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Testing __dirname from node',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/tmeasday/meteor-dirname-test.git',

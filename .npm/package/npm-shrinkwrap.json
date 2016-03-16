@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dirname-test": {
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/dirname-test/-/dirname-test-1.0.0.tgz",
+      "from": "dirname-test@1.0.0"
+    }
+  }
+}
