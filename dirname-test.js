@@ -1,3 +1,5 @@
-export dirnameTest = () => {
+const dirnameTest = () => {
   require('dirname-test');
 }
+
+export { dirnameTest };

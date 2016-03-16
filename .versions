@@ -10,5 +10,5 @@ meteor@1.1.12-rc.1
 modules@0.5.1-rc.1
 modules-runtime@0.6.1-rc.1
 promise@0.6.4-rc.1
-tmeasday:dirname-test@0.0.1
+tmeasday:dirname-test@0.0.2
 underscore@1.0.6-rc.1
